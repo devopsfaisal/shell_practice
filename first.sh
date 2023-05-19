@@ -1,5 +1,6 @@
+#!/bin/bash
 echo "Hello brother, how are you?"
 ls
 pwd
 
-sleep 10
+sleep 30
